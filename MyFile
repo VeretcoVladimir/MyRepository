@@ -1,15 +1,3 @@
-method A1(){
-return initial body}
-
-method A2(){
-return body 2}
-
-method A3(){
-return body 3}
-
-method A4(){
-return body 4}
-
 method A5(){
 return body method 5}
 
@@ -35,25 +23,13 @@ method A12(){
 return body 12}
 
 method A13(){
-return body method 13}
+return body my 13}
 
 method A14(){
 return body 14}
 
 method A15(){
-return body method 15}
+return body my 15}
 
 method A16(){
 return body 16}
-
-method A17(){
-return body 17}
-
-method A18(){
-return body 18}
-
-method A20(){
-return body 20}
-
-method A19000(){
-return body 19}
