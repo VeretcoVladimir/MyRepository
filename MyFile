@@ -35,13 +35,13 @@ method A12(){
 return body 12}
 
 method A13(){
-return body 13}
+return body method 13}
 
 method A14(){
 return body 14}
 
 method A15(){
-return body 15}
+return body method 15}
 
 method A16(){
 return body 16}
@@ -55,5 +55,5 @@ return body 18}
 method A20(){
 return body 20}
 
-method A19(){
+method A19000(){
 return body 19}
