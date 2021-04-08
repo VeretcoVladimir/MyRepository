@@ -1,3 +1,4 @@
 [submodule "NewMyRepository"]
 	path = NewMyRepository
 	url = https://github.com/VeretcoVladimir/NewMyRepository.git
+	branch = newBranchSubmodule
